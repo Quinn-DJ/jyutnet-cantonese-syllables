@@ -1,3 +1,4 @@
 .idea
 *.bat
 **/vendor
+.DS_Store
